@@ -3,7 +3,7 @@
 <h3>Description :</h3> 
 Contact page using firebase as backend.
 
-👉[Click here](https://healthbooker.onrender.com/) to check out the app.
+👉[Click here](https://firebase-contact-form-react.netlify.app/) to check out the app.
 <br/>
 
 <hr/>
